@@ -6,9 +6,15 @@
 //
 
 import SwiftUI
+import StripeTerminal
+
 
 @main
 struct ttp_testApp: App {
+    init() {
+        Terminal.initWithTokenProvider(APIClient.shared)
+    }
+
     var body: some Scene {
         WindowGroup {
             ContentView()

@@ -1,0 +1,16 @@
+PODS:
+  - StripeTerminal (5.6.0)
+
+DEPENDENCIES:
+  - StripeTerminal (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - StripeTerminal
+
+SPEC CHECKSUMS:
+  StripeTerminal: 8d38bf8cb75e02ff4c3e0d2b4db2c6d8abb3b99b
+
+PODFILE CHECKSUM: 74298f665ee3772913d84b9a08a16d744d3437ea
+
+COCOAPODS: 1.16.2
