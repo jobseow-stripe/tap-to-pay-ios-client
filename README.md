@@ -1,5 +1,3 @@
-# ttp-test
-
 A Stripe Terminal Tap to Pay iOS app.
 
 ## Prerequisites
